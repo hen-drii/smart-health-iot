@@ -1,7 +1,7 @@
 # LAPORAN TUGAS BESAR MATA KULIAH INTERNET OF THINGS (IoT)
 ## Proyek: IoT Health Dashboard Terintegrasi AI Gemini
 
-**Disusun Oleh: Kelompok Proyek IoT**
+**Disusun Oleh: Kelompok 7**
 * **Mata Kuliah**: Internet of Things (IoT)
 * **Program Studi**: Teknik / Ilmu Komputer
 
