@@ -87,3 +87,16 @@ Selama mengerjakan proyek ini, kelompok kami menghadapi beberapa tantangan tekni
 1. **Kalibrasi Sensor NTC**: Karakteristik resistor suhu analog NTC cukup sensitif dengan suhu udara ruangan. Kami harus menyesuaikan rumus pembagian tegangan agar suhunya akurat saat disentuh kulit.
 2. **Optimasi Analisis AI**: Awalnya pembacaan suhu tubuh yang rendah (karena sensor belum ditempel erat/membaca suhu ruangan) membuat Gemini mendiagnosis kondisi bahaya "Hipotermia". Akhirnya, kami memutuskan untuk **mengabaikan parameter suhu** dalam prompt Gemini AI (Gemini hanya menganalisis BPM & SpO2 untuk diagnosis), namun data suhunya tetap kami tampilkan di dashboard.
 3. **Akses Jaringan Server**: Karena server kami jalankan pada VPS cloud, kami sempat kesulitan mengakses halaman web dari luar. Kami berhasil menyelesaikannya dengan mengubah *host binding* uvicorn FastAPI ke IP `0.0.0.0` agar bisa diakses menggunakan IP publik server.
+
+---
+
+##8. Anggota Kelompok
+1. Muhammad Hendriansyah - 23552011351
+2. Ferdinand sulaiman - 23552011197
+3. Febrina Melati - 23552011010
+
+---
+
+##Lampiran Video dan Postingan Linked In
+1. Link Youtube (Video Demo): https://youtube.com/shorts/pNXeMS6i-fE?feature=shared
+2. Link LinkedIm: https://www.linkedin.com/posts/febrinamelati_iot-esp32-embeddedsystems-ugcPost-7479150579601133568-ESk7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbn06YB_k1nvLOqazI2D2g09YyWRFoUFZI
