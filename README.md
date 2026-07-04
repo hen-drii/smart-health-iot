@@ -78,7 +78,7 @@ Halaman website kami buat menggunakan HTML, CSS, dan Javascript tanpa framework 
 
 ### Dokumentasi Antarmuka (UI) Website Dashboard
 Berikut adalah tangkapan layar (screenshot) dari dasbor monitoring kesehatan yang kami bangun:
-![Tampilan Halaman Dashboard Website](screenshot_website.png)
+![Tampilan Halaman Dashboard Website](Screenshot-website.png)
 
 ---
 
