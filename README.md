@@ -25,10 +25,10 @@ Dalam merakit alat ini, kami menggunakan beberapa komponen utama berikut:
 
 ### Dokumentasi Perangkat Keras (Hardware)
 Berikut adalah foto dari rangkaian komponen perangkat keras yang kami gunakan:
-![Rangkaian Komponen Proyek](dokumentasi/foto_komponen_rangkaian.jpeg)
+![Rangkaian Komponen Proyek](foto_komponen_rangkaian.jpeg)
 
 Dan di bawah ini adalah alat yang sudah selesai kami rakit dan dikemas di dalam kotak (*casing*):
-![Alat Setelah Dipacking](dokumentasi/foto_sesudah_dipacking.jpeg)
+![Alat Setelah Dipacking](foto_sesudah_dipacking.jpeg)
 
 ---
 
@@ -78,7 +78,7 @@ Halaman website kami buat menggunakan HTML, CSS, dan Javascript tanpa framework 
 
 ### Dokumentasi Antarmuka (UI) Website Dashboard
 Berikut adalah tangkapan layar (screenshot) dari dasbor monitoring kesehatan yang kami bangun:
-![Tampilan Halaman Dashboard Website](dokumentasi/screenshot_website.png)
+![Tampilan Halaman Dashboard Website](screenshot_website.png)
 
 ---
 
