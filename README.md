@@ -90,13 +90,13 @@ Selama mengerjakan proyek ini, kelompok kami menghadapi beberapa tantangan tekni
 
 ---
 
-##8. Anggota Kelompok
+## 8. Anggota Kelompok
 1. Muhammad Hendriansyah - 23552011351
 2. Ferdinand sulaiman - 23552011197
 3. Febrina Melati - 23552011010
 
 ---
 
-##Lampiran Video dan Postingan Linked In
+## 9.Lampiran Video dan Postingan Linked In
 1. Link Youtube (Video Demo): https://youtube.com/shorts/pNXeMS6i-fE?feature=shared
 2. Link LinkedIm: https://www.linkedin.com/posts/febrinamelati_iot-esp32-embeddedsystems-ugcPost-7479150579601133568-ESk7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbn06YB_k1nvLOqazI2D2g09YyWRFoUFZI
